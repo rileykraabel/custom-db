@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\riley\\OneDrive\\Desktop\\Everything\\School\\Junior\\Spring 2024\\CS 5530\\LibraryWebServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|c:\\users\\riley\\onedrive\\desktop\\everything\\school\\junior\\spring 2024\\cs 5530\\librarywebserver\\librarywebserver\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|solutionrelative:librarywebserver\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|c:\\users\\riley\\onedrive\\desktop\\everything\\school\\junior\\spring 2024\\cs 5530\\librarywebserver\\librarywebserver\\models\\patrons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|solutionrelative:librarywebserver\\models\\patrons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|c:\\users\\riley\\onedrive\\desktop\\everything\\school\\junior\\spring 2024\\cs 5530\\librarywebserver\\librarywebserver\\models\\phones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|solutionrelative:librarywebserver\\models\\phones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|c:\\users\\riley\\onedrive\\desktop\\everything\\school\\junior\\spring 2024\\cs 5530\\librarywebserver\\librarywebserver\\models\\team105librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5598BB2D-3CF0-45E5-878C-5894B3B04B70}|LibraryWebServer\\LibraryWebServer.csproj|solutionrelative:librarywebserver\\models\\team105librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patrons.cs",
+              "DocumentMoniker": "C:\\Users\\riley\\OneDrive\\Desktop\\Everything\\School\\Junior\\Spring 2024\\CS 5530\\LibraryWebServer\\LibraryWebServer\\Models\\Patrons.cs",
+              "RelativeDocumentMoniker": "LibraryWebServer\\Models\\Patrons.cs",
+              "ToolTip": "C:\\Users\\riley\\OneDrive\\Desktop\\Everything\\School\\Junior\\Spring 2024\\CS 5530\\LibraryWebServer\\LibraryWebServer\\Models\\Patrons.cs",
+              "RelativeToolTip": "LibraryWebServer\\Models\\Patrons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T23:43:20.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Phones.cs",
+              "DocumentMoniker": "C:\\Users\\riley\\OneDrive\\Desktop\\Everything\\School\\Junior\\Spring 2024\\CS 5530\\LibraryWebServer\\LibraryWebServer\\Models\\Phones.cs",
+              "RelativeDocumentMoniker": "LibraryWebServer\\Models\\Phones.cs",
+              "ToolTip": "C:\\Users\\riley\\OneDrive\\Desktop\\Everything\\School\\Junior\\Spring 2024\\CS 5530\\LibraryWebServer\\LibraryWebServer\\Models\\Phones.cs",
+              "RelativeToolTip": "LibraryWebServer\\Models\\Phones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T23:43:19.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team105LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\riley\\OneDrive\\Desktop\\Everything\\School\\Junior\\Spring 2024\\CS 5530\\LibraryWebServer\\LibraryWebServer\\Models\\Team105LibraryContext.cs",
+              "RelativeDocumentMoniker": "LibraryWebServer\\Models\\Team105LibraryContext.cs",
+              "ToolTip": "C:\\Users\\riley\\OneDrive\\Desktop\\Everything\\School\\Junior\\Spring 2024\\CS 5530\\LibraryWebServer\\LibraryWebServer\\Models\\Team105LibraryContext.cs",
+              "RelativeToolTip": "LibraryWebServer\\Models\\Team105LibraryContext.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T23:43:12.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\riley\\OneDrive\\Desktop\\Everything\\School\\Junior\\Spring 2024\\CS 5530\\LibraryWebServer\\LibraryWebServer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LibraryWebServer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\riley\\OneDrive\\Desktop\\Everything\\School\\Junior\\Spring 2024\\CS 5530\\LibraryWebServer\\LibraryWebServer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LibraryWebServer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAuwC0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:45:29.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 174,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
